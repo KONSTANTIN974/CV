@@ -1,0 +1,11 @@
+.char { 
+	color: skyblue;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 35px ;
+}
+
+
+.char:hover {
+	color: green;
+}
